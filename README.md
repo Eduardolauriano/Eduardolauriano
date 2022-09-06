@@ -1,6 +1,8 @@
 ### 🚀 Se te oferecerem um assento em um foguete, não pergunte qual assento, apenas embarque!🚀💻
 ###### --Sheryl Sandberg.
 
+<img align="right" alt="du-yoda" height="100em" src="https://github.com/Eduardolauriano/Eduardolauriano/blob/main/.github/workflows/giphy-instagram.gif">
+
 ## 
 
 <div style="display: inline_block"><br>
@@ -26,6 +28,4 @@
  </div>
   
    ![Snake animation](https://github.com/Eduardolauriano/Eduardolauriano/blob/output/github-contribution-grid-snake.svg)
- 
-<img align="right" alt="du-yoda" height="100em" src="https://github.com/Eduardolauriano/Eduardolauriano/blob/main/.github/workflows/giphy-instagram.gif">
  
