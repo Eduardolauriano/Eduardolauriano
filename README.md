@@ -1,7 +1,8 @@
+<img align="right" alt="du-yoda" height="150em" src="https://github.com/Eduardolauriano/Eduardolauriano/blob/main/.github/workflows/giphy-instagram.gif">
+
 ### 🚀 Se te oferecerem um assento em um foguete, não pergunte qual assento, apenas embarque!🚀💻
 ###### --Sheryl Sandberg.
 
-<img align="right" alt="du-yoda" height="100em" src="https://github.com/Eduardolauriano/Eduardolauriano/blob/main/.github/workflows/giphy-instagram.gif">
 
 ## 
 
